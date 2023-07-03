@@ -1,0 +1,131 @@
+{
+  "ingredientes": {
+    "filiais": [
+      {
+        "id": 1,
+        "tipo": "Santa Monica"
+      },
+      {
+        "id": 2,
+        "tipo": "Castro Alves"
+      },
+      {
+        "id": 3,
+        "tipo": "Tomba"
+      },
+      {
+        "id": 4,
+        "tipo": "Fraga Maia"
+      },
+      {
+        "id": 5,
+        "tipo": "Artemia Pires"
+      },
+      {
+        "id": 6,
+        "tipo": "Tome de Souza"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Computador"
+      },
+      {
+        "id": 2,
+        "tipo": "Monitor"
+      },
+      {
+        "id": 3,
+        "tipo": "Impressora"
+      },
+      {
+        "id": 4,
+        "tipo": "Mouse,Teclado"
+      },
+      {
+        "id": 4,
+        "tipo": "Outros"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Enviado"
+    }
+  ],
+  "burgers": [],
+  "finalizados": [
+    {
+      "nome": "teste",
+      "motorista": "TESTE",
+      "filial": "Fraga Maia",
+      "opcionais": [
+        "Computador"
+      ],
+      "num": "12",
+      "data": "2023-08-04",
+      "patrimonio": "12",
+      "status": "Solicitado",
+      "id": 2
+    },
+    {
+      "nome": "teste",
+      "motorista": "TESTE",
+      "filial": "Castro Alves",
+      "opcionais": [
+        "Impressora"
+      ],
+      "num": "15",
+      "data": "2023-07-22",
+      "patrimonio": "12",
+      "status": "Solicitado",
+      "id": 3
+    },
+    {
+      "nome": "teste",
+      "motorista": "s",
+      "filial": "Artemia Pires",
+      "opcionais": [
+        "Computador"
+      ],
+      "num": "15",
+      "data": "2023-07-19",
+      "patrimonio": "12",
+      "status": "Solicitado",
+      "id": 4
+    },
+    {
+      "nome": "teste",
+      "motorista": "s",
+      "filial": "Castro Alves",
+      "opcionais": [
+        "Computador",
+        "Monitor"
+      ],
+      "num": "15",
+      "data": "2023-07-06",
+      "patrimonio": "123",
+      "status": "Solicitado",
+      "id": 5
+    },
+    {
+      "nome": "teste",
+      "motorista": "s",
+      "filial": "Fraga Maia",
+      "opcionais": [
+        "Monitor"
+      ],
+      "num": "15",
+      "data": "2023-07-27",
+      "patrimonio": "123",
+      "status": "Solicitado",
+      "id": 6
+    }
+  ]
+}
